@@ -1,0 +1,979 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "sonic_stage",
+		"player1": "sonicexe",
+		"player2": "sonictgt",
+		"player3": null,
+		"events": [
+			[
+				19125,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				19218.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					]
+				]
+			],
+			[
+				19237.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"LordX"
+					]
+				]
+			],
+			[
+				38325,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				38418.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				38437.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sanic"
+					]
+				]
+			],
+			[
+				57525,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				57618.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"fleetway"
+					]
+				]
+			],
+			[
+				57637.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"dorklysonic"
+					]
+				]
+			],
+			[
+				67125,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				67218.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				67237.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"hdsonic"
+					]
+				]
+			],
+			[
+				76725,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				76818.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonictgt"
+					]
+				]
+			],
+			[
+				76837.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				86325,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				86418.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					]
+				]
+			],
+			[
+				86437.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"LordX"
+					]
+				]
+			],
+			[
+				95925,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				96018.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				96037.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sanic"
+					]
+				]
+			],
+			[
+				105525,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				105618.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"fleetway"
+					]
+				]
+			],
+			[
+				105637.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"dorklysonic"
+					]
+				]
+			],
+			[
+				115125,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				115218.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				115237.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"hdsonic"
+					]
+				]
+			],
+			[
+				124725,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				124818.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonictgtmad"
+					]
+				]
+			],
+			[
+				124837.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				127125,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				127218.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					]
+				]
+			],
+			[
+				127237.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"LordX"
+					]
+				]
+			],
+			[
+				129525,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				129618.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				129637.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sanic"
+					]
+				]
+			],
+			[
+				131925,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				132018.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"fleetway"
+					]
+				]
+			],
+			[
+				132037.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"dorklysonic"
+					]
+				]
+			],
+			[
+				134325,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				134418.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				134418.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				134437.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"hdsonic"
+					]
+				]
+			],
+			[
+				136725,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				136818.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonictgtmad"
+					]
+				]
+			],
+			[
+				136837.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				139125,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				139218.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					]
+				]
+			],
+			[
+				139237.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"LordX"
+					]
+				]
+			],
+			[
+				140325,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				140418.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				140437.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sanic"
+					]
+				]
+			],
+			[
+				141525,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				141618.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"fleetway"
+					]
+				]
+			],
+			[
+				141637.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"dorklysonic"
+					]
+				]
+			],
+			[
+				142725,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				142800,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				142818.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				142837.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"hdsonic"
+					]
+				]
+			],
+			[
+				143925,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				144018.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonictgtmad"
+					]
+				]
+			],
+			[
+				144037.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"sonicexe"
+					]
+				]
+			],
+			[
+				148425,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				148518.75,
+				[
+					[
+						"Change Character",
+						"1",
+						"majin"
+					]
+				]
+			],
+			[
+				148537.5,
+				[
+					[
+						"Change Character",
+						"0",
+						"LordX"
+					]
+				]
+			],
+			[
+				152775,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				152850,
+				[
+					[
+						"Change Character",
+						"1",
+						"sunky"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"0",
+						"sanic"
+					]
+				]
+			],
+			[
+				157725,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				157800,
+				[
+					[
+						"Change Character",
+						"1",
+						"fleetway"
+					]
+				]
+			],
+			[
+				159525,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				159600,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonic"
+					]
+				]
+			],
+			[
+				160725,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				160800,
+				[
+					[
+						"Change Character",
+						"0",
+						"dorklysonic"
+					]
+				]
+			],
+			[
+				161925,
+				[
+					[
+						"Image Flash",
+						"blue",
+						"0.4"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Change Character",
+						"0",
+						"hdsonic"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "air",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-Villains"
+	}
+}
